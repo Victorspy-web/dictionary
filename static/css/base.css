@@ -1,0 +1,23 @@
+html body{
+    background : lightblue;
+}
+
+#title {
+    text-align: center;
+}
+
+#search-box {
+    width: 350px;
+    height: 35px;
+    font-size: 1.2em;
+}
+
+#search-box-submit {
+    width: 100px;
+    height: 40px;
+}
+
+#search-box-submit:hover{
+    border: 2px solid red;
+    font-size: 1.1em;
+}
