@@ -1,4 +1,4 @@
-# Contact Storage App
+# Dictionary App
 
 This project is an inspiration from google contacts
 
