@@ -1,6 +1,6 @@
 # Dictionary App
 
-This project is an inspiration from google contacts
+This a dictionary app
 
 ## Getting Started
 
